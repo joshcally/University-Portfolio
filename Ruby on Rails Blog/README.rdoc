@@ -1,5 +1,28 @@
-Report for Ruby on Rails
-	
-This week, we were tasked with creating a blog application with Ruby on Rails, by following a tutorial. I carefully followed all the steps of the tutorial, and in the end was pleasantly surprised with how easily Ruby on Rails was able to implement the MVC (Model-View-Controller) structure as well as hook up to a database, and just work. It was also nice that Rails can just generate a bunch of the nitty-gritty files for you.  I did run into some problems early on getting the server running properly. I was getting strange errors as I tried to run the server, and it took me a few hours to figure out that I needed to install Node.Js for some reason, as it was required for the server to run. It also took me some time to actually figure out how to get the server to run and access the server. Because of this extra time trying to troubleshoot the Rails setup, I was not able to get any extra features implemented, however I do feel I have a basic understanding of how Ruby and Rails work. 
-The use of MVC in this project is clearly seen throughout all of the Ruby files associated. Ruby is very MVC focused, and so it is easy to generate the various components, as you need them. Basic Ruby Gems were used for this assignment, as well as many different commands to auto generate code. My attempts at testing was basically trying to see if there was any way that I could get around the validation put in for the name of the articles, but I was impressed to see that Rails’ solution to validation covered all the basic cases that I tried. 
-Overall, I felt this project was a great way to introduce me to Ruby and Rails. I used to work for Instructure as a QA Intern, and when I worked there, Ruby always seemed so different and just a very laid back language. After going through this tutorial, I feel that I have learned a good deal about how all of this functions, and am planning on looking into Ruby and Rails in the future. I feel that this project falls into the “Adequate” grade, as I did not add any extra features, but did get the assignment done for the most part.
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
